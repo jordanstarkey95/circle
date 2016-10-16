@@ -1,0 +1,3 @@
+[AnswerId];/$[AnswerContent];/$[UserId]
+
+#223;/$My dad has abused me too. I called this hotline and it provided solace: http://www.thehotline.org/;/$huskyman

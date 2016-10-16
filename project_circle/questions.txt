@@ -1,2 +1,3 @@
-12344;/$Why does my mom beat me :(;/$112;/$4
-12345;/$Why does my date hurt me? :(;/$121;/$8
+[QuestionId];/$[Title];/$[Body];/$[UserId];/$[CommentNumber];/$[AnswerId];/$[Tags]
+
+34;/$Abuse;/$My friends dad hits him and he is scared to seek help;/$How can I help him and make this stop?;/$4;/$223;/Abuse
