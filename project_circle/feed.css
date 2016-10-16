@@ -19,27 +19,42 @@ form {
 
 nav .container {
   margin-top: 12px;
-  background-color: #9d58cf;
+  background-color: #9859e5;
   width: 70%;
 }
 
 nav {
-  height: 30px;
+  height: 40px;
 }
 
 .navbar-default {
-  background-color: #9d58cf;
+  background-color: #9859e5;
 }
 
+.logo {
+  max-height:45px;
+  height: auto;
+  width: auto;
+  display: inline;
+}
+
+.search-bar {
+  display: inline-block;
+}
 .container span {
   vertical-align: middle;
   font-size: 12pt;
   color: #fff;
 }
 
+.caption {
+  padding: 0px;
+  margin: 0px;
+}
+
 .btn-primary {
-  background-color: #9d58cf;
-  border-color: #8c59b1;
+  background-color: #9859e5;
+  border-color: #9859e5;
 }
 .btn-primary:hover {
   background-color: #5a128d;
@@ -62,3 +77,4 @@ input[type=text]:focus, textarea:focus {
   margin: 5px 1px 3px 0px;
   border: 1px solid rgba(157, 88, 207, 1);
 }
+
